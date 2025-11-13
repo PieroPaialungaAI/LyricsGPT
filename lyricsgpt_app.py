@@ -6,7 +6,7 @@ from typing import Dict, List
 
 import streamlit as st
 
-from lyrics_generation import (
+from lyricsgpt import (
     GenerationConfig,
     SONG_PROMPTS,
     answer_question,
