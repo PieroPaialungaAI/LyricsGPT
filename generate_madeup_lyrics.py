@@ -2,7 +2,7 @@
 
 from __future__ import annotations
 
-from lyrics_generation import (
+from lyricsgpt import (
     GenerationConfig,
     SONG_PROMPTS,
     create_lyrics_dataset,
